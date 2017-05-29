@@ -1,7 +1,7 @@
 ---
-title:        "Example content"
+title:        "First post"
 # jekyll-seo-tag
-description:  "A short description of the page's content"
+description:  "A short description of the page's contentA short description of the page's contentA short description of the page's contentA short description of the page's contentA short description of the page's content"
 image:        "http://placehold.it/400x200"
 author:       "jianjie"
 ---
