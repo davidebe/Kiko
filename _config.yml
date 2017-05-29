@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "Davide's blog"
+name:               "Davide"
 description:        "publishing + technology + attention"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
@@ -25,9 +25,9 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "Consulting"
     href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
+  - name:           "Fleisure"
     href:           "//github.com/gfjaru/Kiko/releases"
 
 # Sass
