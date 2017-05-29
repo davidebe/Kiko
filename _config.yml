@@ -3,8 +3,9 @@
 # # # # # # # #
 
 # Basic
-name: Davide
-description:        "publishing + technology + attention"
+name: "Davide"
+description: "publishing + technology + attention"
+title: "publishing + technology + attention"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 url:                "//davideberretta.com"
