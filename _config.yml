@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
-description:        "a clean, lightweight and minimalistic blog theme for jekyll"
+name:               "Davide's blog"
+description:        "publishing + technology + attention"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
-author:             "gfjaru"
+url:                "//davideberretta.com"
+author:             "Davide"
 twitter:
-  username:         "gfjaru"
+  username:         "@daveeday"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
