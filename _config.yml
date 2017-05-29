@@ -30,6 +30,11 @@ nav:
   - name:           "Fleisure"
     href:           "//github.com/gfjaru/Kiko/releases"
 
+# PROSE
+prose:
+    rooturl: "_posts"
+  media: "assets/uploads"
+
 # Sass
 sass:
   style:            :compressed
