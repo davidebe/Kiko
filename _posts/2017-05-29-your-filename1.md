@@ -2,6 +2,6 @@
 layout: blog
 published: false
 ---
-## TEST 3 
+##NOTHING HERE YET
 
-let's see
+Receive blog updates via email[by signing up here](http://eepurl.com/cSDdRr)
