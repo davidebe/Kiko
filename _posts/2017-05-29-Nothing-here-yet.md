@@ -2,4 +2,4 @@
 layout: blog
 published: true
 ---
-You can receive blog updates via email [by signing up here](http://eepurl.com/cSDdRr)
+I will begin blogging regularly in the Fall. If you'd like to stay updated, you can sign up to receive my posts via email [here](http://eepurl.com/cSDdRr)
