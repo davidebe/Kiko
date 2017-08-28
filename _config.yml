@@ -8,7 +8,7 @@ description: "publishing + technology + attention"
 title: "publishing + technology + attention"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//davideberretta.com"
+url:                "https://davideberretta.com"
 author:             "Davide"
 twitter:
   username:         "@daveeday"
@@ -27,9 +27,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "Consulting"
-    href:           "//kiko.gfjaru.com/about"
+    href:           "https://davideberretta.com"
   - name:           "Fleisure"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "https://fleisure.com"
 
 # PROSE
 prose:
